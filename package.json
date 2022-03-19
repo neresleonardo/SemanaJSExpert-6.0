@@ -1,0 +1,12 @@
+{
+  "name": "semanajsexpert-spotify-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "repository": "git@github.com:ErickWendel/semanajsexpert-spotify-template.git",
+  "author": "Leonardo Borges <leonardo.borges.neres@gmail.com>",
+  "license": "MIT"
+}
